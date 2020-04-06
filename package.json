@@ -1,0 +1,32 @@
+{
+  "name": "@rsksmart/rsk-contract-metadata",
+  "version": "1.0.0",
+  "description": "A mapping of RSK contract addresses to broadly accepted icons for those addresses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "files": [
+    "index.js",
+    "contract-map.json",
+    "images/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rsksmart/rsk-contract-metadata.git"
+  },
+  "keywords": [
+    "rsk",
+    "contract",
+    "icons"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsksmart/rsk-contract-metadata/issues"
+  },
+  "homepage": "https://github.com/rsksmart/rsk-contract-metadata#readme",
+  "devDependencies": {
+    "rskjs-util": "^1.0.3",
+    "tape": "^4.6.3"
+  }
+}
