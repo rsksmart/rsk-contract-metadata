@@ -19,5 +19,12 @@
     "erc20": true,
     "symbol": "BITP",
     "decimals": 18
+  },
+  "0x45d3E4fB311982a06ba52359d44cB4f5980e0ef1": {
+    "name": "RIF Name Service",
+    "logo": "rif.png",
+    "erc20": true,
+    "symbol": "RNS",
+    "decimals": 18
   }
 }
