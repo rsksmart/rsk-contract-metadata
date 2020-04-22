@@ -23,8 +23,29 @@
   "0x45d3E4fB311982a06ba52359d44cB4f5980e0ef1": {
     "name": "RIF Name Service",
     "logo": "rif.png",
-    "erc20": true,
+    "erc20": false,
     "symbol": "RNS",
     "decimals": 0
+  },
+  "0xe0CFF8a40f540657c62EB4CAC34b915e5ed8d8FF": {
+    "name": "Invecoin",
+    "logo": "inv.png",
+    "erc20": true,
+    "symbol": "INV",
+    "decimals": 18
+  },
+  "0x9d11937E2179dC5270Aa86A3f8143232D6DA0E69": {
+    "name": "Token Bridge",
+    "logo": "rsk.png",
+    "erc20": false,
+    "symbol": "TB",
+    "decimals": 0
+  },
+  "0x6B1a73d547F4009A26B8485b63D7015D248AD406": {
+    "name": "Dai Stablecoin",
+    "logo": "dai.png",
+    "erc20": true,
+    "symbol": "rDAI",
+    "decimals": 18
   }
 }
