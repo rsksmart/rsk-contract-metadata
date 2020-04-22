@@ -34,13 +34,6 @@
     "symbol": "INV",
     "decimals": 18
   },
-  "0x9d11937E2179dC5270Aa86A3f8143232D6DA0E69": {
-    "name": "Token Bridge",
-    "logo": "rsk.png",
-    "erc20": false,
-    "symbol": "TB",
-    "decimals": 0
-  },
   "0x6B1a73d547F4009A26B8485b63D7015D248AD406": {
     "name": "Dai Stablecoin",
     "logo": "dai.png",
