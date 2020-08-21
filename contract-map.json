@@ -6,6 +6,20 @@
     "symbol": "RIF",
     "decimals": 18
   },
+  "0x2d919f19D4892381d58EdEbEcA66D5642ceF1A1F": {
+    "name": "RIF Dollar on Chain",
+    "logo": "rdoc.png",
+    "erc20": true,
+    "symbol": "RDOC",
+    "decimals": 18
+  },
+  "0xF4d27C56595eD59B66cC7f03CFF5193E4Bd74a61": {
+    "name": "RIF Pro",
+    "logo": "rifpro.png",
+    "erc20": true,
+    "symbol": "RIFP",
+    "decimals": 18
+  },
   "0xE700691Da7B9851F2F35f8b8182C69C53ccad9DB": {
     "name": "Dollar on Chain",
     "logo": "doc.png",
@@ -39,6 +53,13 @@
     "logo": "dai.png",
     "erc20": true,
     "symbol": "rDAI",
+    "decimals": 18
+  },
+  "0x967f8799aF07DF1534d48A95a5C9FEBE92c53ae0": {
+    "name": "Wrapped RBTC",
+    "logo": "wrbtc.png",
+    "erc20": true,
+    "symbol": "WRBTC",
     "decimals": 18
   }
 }
