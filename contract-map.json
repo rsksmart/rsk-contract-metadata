@@ -110,5 +110,12 @@
     "erc20": true,
     "symbol": "🦄RIF:rDAI",
     "decimals": 18
+  },
+  "0x73C08467E23F7DcB7DdbBc8d05041b74467A498A": {
+    "name": "Flixxo",
+    "logo": "flixx.png",
+    "erc20": true,
+    "symbol": "rFLIXX",
+    "decimals": 18
   }
 }
