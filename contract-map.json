@@ -117,5 +117,26 @@
     "erc20": true,
     "symbol": "rFLIXX",
     "decimals": 18
+  },
+  "0x14ADAE34beF7Ca957ce2DDe5AdD97EA050123827": {
+    "name": "ChainLink Token",
+    "logo": "link.png",
+    "erc20": true,
+    "symbol": "rLINK",
+    "decimals": 18
+  },
+  "0x5a42221D7aAE8e185Bc0054bb036D9757eC18857": {
+    "name": "USD Coin",
+    "logo": "usdc.png",
+    "erc20": true,
+    "symbol": "rUSDC",
+    "decimals": 18
+  },
+  "0xe506F698B31a66049bD4653Ed934e7A07Cbc5549": {
+    "name": "Tether USD",
+    "logo": "usdt.png",
+    "erc20": true,
+    "symbol": "rUSDT",
+    "decimals": 18
   }
 }
