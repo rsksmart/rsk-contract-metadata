@@ -138,5 +138,12 @@
     "erc20": true,
     "symbol": "rUSDT",
     "decimals": 18
+  },
+  "0x9C3a5F8d686fadE293c0Ce989A62a34408C4e307": {
+    "name": "RedFOX Labs",
+    "logo": "rfox.png",
+    "erc20": true,
+    "symbol": "rRFOX",
+    "decimals": 18
   }
 }
