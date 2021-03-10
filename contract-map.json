@@ -145,5 +145,26 @@
     "erc20": true,
     "symbol": "rRFOX",
     "decimals": 18
+  },
+  "0xD256C121A507cadd2687599E27fA45E31B7c3199": {
+    "name": "rLedning USDT",
+    "logo": "crusdt.png",
+    "erc20": true,
+    "symbol": "crUSDT",
+    "decimals": 8
+  },
+  "0xB7Ff2c56c897562c0AA6747D2679d35F5e937492": {
+    "name": "rLending RIF",
+    "logo": "crif.png",
+    "erc20": true,
+    "symbol": "cRIF",
+    "decimals": 8
+  },
+  "0x872664A885A1995D754E3666A23FaD5c801401C4": {
+    "name": "rLending RBTC",
+    "logo": "crbtc.png",
+    "erc20": true,
+    "symbol": "cRBTC",
+    "decimals": 8
   }
 }
