@@ -28,10 +28,10 @@
     "decimals": 18
   },
   "0x440cd83C160de5C96DDb20246815EA44C7Abbca8": {
-    "name": "BitPRO",
+    "name": "BitPro",
     "logo": "bpro.png",
     "erc20": true,
-    "symbol": "BITP",
+    "symbol": "BPro",
     "decimals": 18
   },
   "0x45d3E4fB311982a06ba52359d44cB4f5980e0ef1": {
@@ -49,7 +49,7 @@
     "decimals": 18
   },
   "0x6B1a73d547F4009A26B8485b63D7015D248AD406": {
-    "name": "Dai Stablecoin",
+    "name": "Dai Stablecoin on RSK",
     "logo": "dai.png",
     "erc20": true,
     "symbol": "rDAI",
@@ -63,49 +63,49 @@
     "decimals": 18
   },
   "0x818C0A92aae155e93419B5a7323E8e8AE649F287": {
-    "name": "Uniswap LP RIF/RBTC",
+    "name": "RSK Swap LP RIF/RBTC",
     "logo": "rif-rbtc.png",
     "erc20": true,
     "symbol": "🦄RBTC:RIF",
     "decimals": 18
   },
   "0xDA066D0fD764c8035Cd56798F0F0D2FE719CC62B": {
-    "name": "Uniswap LP RIF/DOC",
+    "name": "RSK Swap LP RIF/DOC",
     "logo": "rif-doc.png",
     "erc20": true,
     "symbol": "🦄RIF:DOC",
     "decimals": 18
   },
   "0xe66388940C3db98a7b9Fcf628702FFBEc3a106a3": {
-    "name": "Uniswap LP BPRO/DOC",
+    "name": "RSK Swap LP BPRO/DOC",
     "logo": "bpro-doc.png",
     "erc20": true,
     "symbol": "🦄BPRO:DOC",
     "decimals": 18
   },
   "0x90Fc6FBb9C7ecfeCF0AcB44385E6a4D076817feb": {
-    "name": "Uniswap LP RDOC/DOC",
+    "name": "RSK Swap LP RDOC/DOC",
     "logo": "rdoc-doc.png",
     "erc20": true,
     "symbol": "🦄RDOC:DOC",
     "decimals": 18
   },
   "0x22DaA89FDF6FB6a6771652141E6F18b8EBD86960": {
-    "name": "Uniswap LP rDAI/DOC",
+    "name": "RSK Swap LP rDAI/DOC",
     "logo": "rdai-doc.png",
     "erc20": true,
     "symbol": "🦄DAI:DOC",
     "decimals": 18
   },
   "0xc9fE8E7A47EFf9f62f2684a540619D52FBcD6649": {
-    "name": "Uniswap LP rDAI/RBTC",
+    "name": "RSK Swap LP rDAI/RBTC",
     "logo": "rdai-rbtc.png",
     "erc20": true,
     "symbol": "🦄rDAI:RBTC",
     "decimals": 18
   },
   "0x2D5146C744Bef25B27d0DC8523Ed547BF7514D84": {
-    "name": "Uniswap LP RIF/rDAI",
+    "name": "RSK Swap LP RIF/rDAI",
     "logo": "rif-rdai.png",
     "erc20": true,
     "symbol": "🦄RIF:rDAI",
