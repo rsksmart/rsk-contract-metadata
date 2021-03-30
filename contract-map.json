@@ -173,5 +173,12 @@
     "erc20": true,
     "symbol": "rBUND",
     "decimals": 18
+  },
+  "0xFF9EA341d9ea91CB7c54342354377f5104Fd403f": {
+    "name": "AMLT Coinfirm",
+    "logo": "amlt.png",
+    "erc20": true,
+    "symbol": "rAMLT",
+    "decimals": 18
   }
 }
