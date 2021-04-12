@@ -180,5 +180,12 @@
     "erc20": true,
     "symbol": "rAMLT",
     "decimals": 18
+  },
+  "0xEfC78FC7D48B64958315949279bA181C2114abbD": {
+    "name": "Sovryn Token",
+    "logo": "sov.png",
+    "erc20": true,
+    "symbol": "SOV",
+    "decimals": 18
   }
 }
