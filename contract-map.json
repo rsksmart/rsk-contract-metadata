@@ -194,5 +194,12 @@
     "erc20": true,
     "symbol": "MOC",
     "decimals": 18
+  },
+  "0x70566D8541beaBe984c8BAbF8A816Ed908514Ba8": {
+    "name": "Universal Basic Income tokens",
+    "logo": "ubi.png",
+    "erc20": true,
+    "symbol": "rUBI",
+    "decimals": 18
   }
 }
