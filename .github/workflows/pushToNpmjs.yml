@@ -1,0 +1,27 @@
+name: Push to npmjs.com
+on:
+  pull_request:
+    branches:
+      - 'master'
+    types: [closed]
+
+jobs:
+  pushing_to_npmjs:
+
+    if: github.event.pull_request.merged == true
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Push package to npmjs.com
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12
+        registry-url: https://registry.npmjs.org/
+    - run: npm install
+    - run: npm publish --access public
+      env:
+        NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
