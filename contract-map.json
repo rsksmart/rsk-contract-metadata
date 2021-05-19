@@ -196,7 +196,7 @@
     "decimals": 18
   },
   "0x70566D8541beaBe984c8BAbF8A816Ed908514Ba8": {
-    "name": "Universal Basic Income tokens",
+    "name": "Universal Basic Income Token",
     "logo": "ubi.png",
     "erc20": true,
     "symbol": "rUBI",
