@@ -1,6 +1,6 @@
 {
   "name": "@rsksmart/rsk-contract-metadata",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A mapping of RSK contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,10 @@
   "keywords": [
     "rsk",
     "contract",
-    "icons"
+    "icons",
+    "tokens",
+    "metadata",
+    "logo"
   ],
   "license": "ISC",
   "bugs": {
