@@ -201,5 +201,33 @@
     "erc20": true,
     "symbol": "rUBI",
     "decimals": 18
+  },
+  "0xd52da63689543924dcA66bCBe2e2Ea599c45d575": {
+    "name": "Pesos Argentinos PagoLinea",
+    "logo": "arscb.png",
+    "erc20": true,
+    "symbol": "ARSCB",
+    "decimals": 18
+  },
+  "0xaA5dc2Ea0E056Fc962F48aB25547d66d3586eE8a": {
+    "name": "Dólar Americano PagoLinea",
+    "logo": "usdcb.png",
+    "erc20": true,
+    "symbol": "USDCB",
+    "decimals": 18
+  },
+  "0xE9F78E507F24537f3f78c212Cf93F65eEC9054C2": {
+    "name": "Bolívares PagoLinea",
+    "logo": "vescb.png",
+    "erc20": true,
+    "symbol": "VESCB",
+    "decimals": 18
+  },
+  "0x7C459C5B11E2815DB085DDA9EC314a9cDe00a082": {
+    "name": "Pesos Colombianos PagoLinea",
+    "logo": "copcb.png",
+    "erc20": true,
+    "symbol": "COPCB",
+    "decimals": 18
   }
 }
