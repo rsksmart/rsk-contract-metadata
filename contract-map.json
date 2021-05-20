@@ -229,5 +229,11 @@
     "erc20": true,
     "symbol": "COPCB",
     "decimals": 18
-  }
+  },
+  "0x9aC7Fe28967b30e3a4E6E03286D715B42B453d10": {
+    "name": "MOC Governance Token",
+    "logo": "moc.png",
+    "erc20": true,
+    "symbol": "MOC",
+    "decimals": 18
 }
