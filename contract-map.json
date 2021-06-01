@@ -56,7 +56,7 @@
     "decimals": 18
   },
   "0x967f8799aF07DF1534d48A95a5C9FEBE92c53ae0": {
-    "name": "Wrapped RBTC",
+    "name": "Wrapped RBTC on RSK",
     "logo": "wrbtc.png",
     "erc20": true,
     "symbol": "WRBTC",
@@ -112,42 +112,42 @@
     "decimals": 18
   },
   "0x73C08467E23F7DcB7DdbBc8d05041b74467A498A": {
-    "name": "Flixxo",
+    "name": "Flixxo on RSK",
     "logo": "flixx.png",
     "erc20": true,
     "symbol": "rFLIXX",
     "decimals": 18
   },
   "0x14ADAE34beF7Ca957ce2DDe5AdD97EA050123827": {
-    "name": "ChainLink Token",
+    "name": "ChainLink Token on RSK",
     "logo": "link.png",
     "erc20": true,
     "symbol": "rLINK",
     "decimals": 18
   },
   "0x1BDa44fda023F2af8280a16FD1b01D1A493BA6c4": {
-    "name": "USD Coin",
+    "name": "USD Coin on RSK",
     "logo": "usdc.png",
     "erc20": true,
     "symbol": "rUSDC",
     "decimals": 18
   },
   "0xEf213441a85DF4d7acBdAe0Cf78004E1e486BB96": {
-    "name": "Tether USD",
+    "name": "Tether USD on RSK",
     "logo": "usdt.png",
     "erc20": true,
     "symbol": "rUSDT",
     "decimals": 18
   },
   "0x9C3a5F8d686fadE293c0Ce989A62a34408C4e307": {
-    "name": "RedFOX Labs",
+    "name": "RedFOX Labs on RSK",
     "logo": "rfox.png",
     "erc20": true,
     "symbol": "rRFOX",
     "decimals": 18
   },
   "0xD256C121A507cadd2687599E27fA45E31B7c3199": {
-    "name": "rLedning USDT",
+    "name": "rLending USDT",
     "logo": "crusdt.png",
     "erc20": true,
     "symbol": "crUSDT",
@@ -168,14 +168,14 @@
     "decimals": 8
   },
   "0x4991516DF6053121121274397A8C1DAD608bc95B": {
-    "name": "Bundles Finance",
+    "name": "Bundles Finance on RSK",
     "logo": "bund.png",
     "erc20": true,
     "symbol": "rBUND",
     "decimals": 18
   },
   "0xFF9EA341d9ea91CB7c54342354377f5104Fd403f": {
-    "name": "AMLT Coinfirm",
+    "name": "AMLT Coinfirm on RSK",
     "logo": "amlt.png",
     "erc20": true,
     "symbol": "rAMLT",
@@ -189,14 +189,14 @@
     "decimals": 18
   },
   "0x9aC7Fe28967b30e3a4E6E03286D715B42B453d10": {
-    "name": "MOC",
+    "name": "Money on Chain Governance Token",
     "logo": "moc.png",
     "erc20": true,
     "symbol": "MOC",
     "decimals": 18
   },
   "0x70566D8541beaBe984c8BAbF8A816Ed908514Ba8": {
-    "name": "Universal Basic Income Token",
+    "name": "Universal Basic Income on RSK",
     "logo": "ubi.png",
     "erc20": true,
     "symbol": "rUBI",
@@ -228,6 +228,90 @@
     "logo": "copcb.png",
     "erc20": true,
     "symbol": "COPCB",
+    "decimals": 18
+  },
+  "0x3e040020648A2f2c872ce0c7165ba5aD7841c972": {
+    "name": "Real Brasileño PagoLinea",
+    "logo": "brlcb.png",
+    "erc20": true,
+    "symbol": "BRLCB",
+    "decimals": 18
+  },
+  "0xae2CEB4B57AdE22643BE2909425105d5114b1DbC": {
+    "name": "Euro PagoLinea",
+    "logo": "eurcb.png",
+    "erc20": true,
+    "symbol": "EURCB",
+    "decimals": 18
+  },
+  "0x99AF5DeB8dAebcD36FCCd16fa46dC95D922cDe5b": {
+    "name": "Pesos Panameños PagoLinea",
+    "logo": "pabcb.png",
+    "erc20": true,
+    "symbol": "PABCB",
+    "decimals": 18
+  },
+  "0xA05Fd8082e19923aa4868ff3C2aE48850B734736": {
+    "name": "Guaranies Paraguayos PagoLinea",
+    "logo": "pygcb.png",
+    "erc20": true,
+    "symbol": "PYGCB",
+    "decimals": 18
+  },
+  "0x0f6895FA2679453d2c32C5f6E2f00e4621c57Ca2": {
+    "name": "Sol Peruano PagoLinea",
+    "logo": "pencb.png",
+    "erc20": true,
+    "symbol": "PENCB",
+    "decimals": 18
+  },
+  "0x61B50d8fB43Cc28b56EE7f9DA32aE46c3c1C68A3": {
+    "name": "Yuan Chino PagoLinea",
+    "logo": "cnycb.png",
+    "erc20": true,
+    "symbol": "CNYCB",
+    "decimals": 18
+  },
+  "0x2058BA9577C4F90246bEa9D74Ae2e4Cd0167A123": {
+    "name": "Pesos Mexicanos PagoLinea",
+    "logo": "mxncb.png",
+    "erc20": true,
+    "symbol": "MXNCB",
+    "decimals": 18
+  },
+  "0x977675B863b3b1Cf46A927fdDcbe0c831bF50135": {
+    "name": "Pesos Bolivianos PagoLinea",
+    "logo": "bobcb.png",
+    "erc20": true,
+    "symbol": "BOBCB",
+    "decimals": 18
+  },
+  "0x3d9f9e1f8151410BEdA306fDF8626a02e03ea8aa": {
+    "name": "Rupia Indonesia PagoLinea",
+    "logo": "idrcb.png",
+    "erc20": true,
+    "symbol": "IDRCB",
+    "decimals": 18
+  },
+  "0xd8132625b10B3962239F6842981dCE02f1a163D2": {
+    "name": "Peso Uruguayo PagoLinea",
+    "logo": "uyucb.png",
+    "erc20": true,
+    "symbol": "UYUCB",
+    "decimals": 18
+  },
+  "0xAb2d290b7a600f5eA8d5B933f6F15c867Fd7e60e": {
+    "name": "Bitcoin PagoLinea",
+    "logo": "btccb.png",
+    "erc20": true,
+    "symbol": "BTCCB",
+    "decimals": 18
+  },
+  "0x84C0Cb1D6623cfB3546a79c66eB96b874CE6659d": {
+    "name": "Ether PagoLinea",
+    "logo": "ethcb.png",
+    "erc20": true,
+    "symbol": "ETHCB",
     "decimals": 18
   }
 }
