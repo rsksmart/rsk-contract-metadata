@@ -313,5 +313,12 @@
     "erc20": true,
     "symbol": "ETHCB",
     "decimals": 18
+  },
+  "0xE355C280131dfaf18Bf1C3648aEE3c396Db6B5Fd": {
+    "name": "Brazilian Digital Token",
+    "logo": "brz.png",
+    "erc20": true,
+    "symbol": "BRZ",
+    "decimals": 4
   }
 }
