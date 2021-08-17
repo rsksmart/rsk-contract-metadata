@@ -320,5 +320,12 @@
     "erc20": true,
     "symbol": "BRZ",
     "decimals": 4
+  },
+  "0xb5999795BE0eBb5BAb23144Aa5fD6a02d080299f": {
+    "name": "XUSD Babelfish stablecoin",
+    "logo": "xusd.svg",
+    "erc20": true,
+    "symbol": "XUSD",
+    "decimals": 18
   }
 }
