@@ -327,5 +327,12 @@
     "erc20": true,
     "symbol": "XUSD",
     "decimals": 18
+  },
+  "0x055a902303746382Fbb7D18f6aE0df56EFDC5213": {
+    "name": "Babelfish",
+    "logo": "fish.png",
+    "erc20": true,
+    "symbol": "FISH",
+    "decimals": 18
   }
 }
