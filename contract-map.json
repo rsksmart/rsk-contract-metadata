@@ -323,7 +323,7 @@
   },
   "0xb5999795BE0eBb5BAb23144Aa5fD6a02d080299f": {
     "name": "XUSD Babelfish stablecoin",
-    "logo": "xusd.svg",
+    "logo": "xusd.png",
     "erc20": true,
     "symbol": "XUSD",
     "decimals": 18
