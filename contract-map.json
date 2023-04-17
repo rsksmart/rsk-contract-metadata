@@ -327,5 +327,19 @@
     "erc20": true,
     "symbol": "XUSD",
     "decimals": 18
+  },
+  "0xc1411567D2670E24D9c4Daaa7CdA95686E1250Aa": {
+    "name": "Sovryn Dollar",
+    "logo": "dllr.png",
+    "erc20": true,
+    "symbol": "DLLR",
+    "decimals": 18
+  },
+  "0x451291d48f23782CB5609CED5a195B0C92EddC7b": {
+    "name": "ZERO",
+    "logo": "zero.png",
+    "erc20": true,
+    "symbol": "ZERO",
+    "decimals": 18
   }
 }
