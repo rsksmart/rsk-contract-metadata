@@ -77,3 +77,4 @@ A full list of permitted fields can be found in the [permitted-fields.json](./pe
 ## Disclaimer
 
 Maintaining this list is a considerable chore, and it is not our highest priority. We do not guarantee inclusion in this list on any urgent timeline. We are actively looking for fair and safe ways to maintain a list like this in a decentralized way, because maintaining it is a large and security-delicate task.
+
