@@ -6,6 +6,13 @@
     "symbol": "RIF",
     "decimals": 18
   },
+  "0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37": {
+    "name": "USDRIF",
+    "logo": "usdrif.png",
+    "erc20": true,
+    "symbol": "USDRIF",
+    "decimals": 18
+  },
   "0x2d919f19D4892381d58EdEbEcA66D5642ceF1A1F": {
     "name": "RIF Dollar on Chain",
     "logo": "rdoc.png",
