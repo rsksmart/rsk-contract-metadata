@@ -1,7 +1,7 @@
 <p align="middle">
-    <img src="https://www.rsk.co/img/rsk_logo.svg" alt="logo" height="100" >
+    <img src="images/rootstock-orange.png" alt="logo" height="100" >
 </p>
-<h3 align="middle">RSK Contract Metadata</h3>
+<h3 align="middle">Rootstock (RSK) Contract Metadata</h3>
 <p align="middle">
     A mapping of addresses to metadata, like names, and images of those addresses' logos.
 </p>
@@ -53,7 +53,7 @@ Criteria:
 - PR should include link to official project website referencing the suggested address.
 - Project website should include explanation of project.
 - Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
-- Nice to have a verified source code on a RSK explorer.
+- Nice to have a verified source code on a Rootstock explorer.
 
 Tokens should include a field `"erc20": true`, and can include additional fields:
 
