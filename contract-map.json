@@ -13,6 +13,13 @@
     "symbol": "USDRIF",
     "decimals": 18
   },
+  "0x5db91e24bd32059584bbdb831a901f1199f3d459": {
+    "name": "Staked RIF",
+    "logo": "",
+    "erc20": true,
+    "symbol": "stRIF",
+    "decimals": 18
+  },
   "0x2d919f19D4892381d58EdEbEcA66D5642ceF1A1F": {
     "name": "RIF Dollar on Chain",
     "logo": "rdoc.png",
