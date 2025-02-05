@@ -356,6 +356,27 @@
     "symbol": "ZERO",
     "decimals": 18
   },
+  "0x74C9F2B00581F1b11Aa7Ff05aa9f608B7389de67": {
+    "name": "Bridged USDC (Stargate)",
+    "logo": "usdc.png",
+    "erc20": true,
+    "symbol": "USDC.e",
+    "decimals": 6
+  },
+  "0xAF368c91793cb22739386DFCBbB2f1A9E4bcBEBf": {
+    "name": "USDT",
+    "logo": "usdt.png",
+    "erc20": true,
+    "symbol": "USDT",
+    "decimals": 6
+  },
+  "0x2F6f07CDcf3588944bF4C42Ac74fF24bf56e7590": {
+    "name": "WETH",
+    "logo": "weth.png",
+    "erc20": true,
+    "symbol": "WETH",
+    "decimals": 18
+  },
   "0x055a902303746382Fbb7D18f6aE0df56EFDC5213": {
     "name": "Babelfish",
     "logo": "fish.png",
