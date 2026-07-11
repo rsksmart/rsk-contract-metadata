@@ -390,5 +390,11 @@
     "erc20": true,
     "symbol": "USD₮0",
     "decimals": 6
-  }
+  },
+"0x13A00d7147F4F3CaAa9b8fC4adb346613bBd6BAE": {
+  "name": "Actually Autistic Society Token",
+  "logo": "aas.png",
+  "erc20": true,
+  "symbol": "AAS",
+  "decimals": 18
 }
